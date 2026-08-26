@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 ## Data Sources
 
-**CDX_index_hist.csv:** Historical closing prices for the CDX North America Investment Grade index. Source: Nasdaq Data Link. The implied hazard rate for each observation is derived using the recovery rate assumption of 40%.
+**CDX_index_hist.csv:** Historical closing prices for the CDX North America Investment Grade index. Source:https://www.nasdaq.com/market-activity/etf/cdx/historical. The implied hazard rate for each observation is derived using the recovery rate assumption of 40%.
 
 **VIX:** Pulled from the [datasets/finance-vix](https://github.com/datasets/finance-vix) public repository via pandas.
 
