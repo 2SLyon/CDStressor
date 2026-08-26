@@ -1,4 +1,6 @@
-notebook
+numpy
+pandas
 plotly
 ipywidgets
-numpy
+matplotlib
+yfinance
